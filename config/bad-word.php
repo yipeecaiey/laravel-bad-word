@@ -23,6 +23,16 @@ return [
 
         //match IF these appear as whole words
         'words' => [
+            //added 9/13/23
+            'poker',
+            'bingo',
+            'lottery',
+            'hold-em',
+            'holdem',
+            'cash',
+            'on sale',
+            'buy now',
+
             //list of bad words banned by sms carriers
             'cannabis',
             'marijuana',
